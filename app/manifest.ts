@@ -1,0 +1,1 @@
+export default function manifest(){return{name:"7Lol Host",short_name:"7Lol",lang:"ar",dir:"rtl" as const,start_url:"/",display:"standalone" as const,background_color:"#F8FAFC",theme_color:"#1677FF",icons:[{src:"/icon.svg",sizes:"any",type:"image/svg+xml"}]}}
